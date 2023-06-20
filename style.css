@@ -1,0 +1,59 @@
+.text1 {
+    width: 631px;
+    height: 41px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 138%;
+    letter-spacing: 0.015em;
+    color: #919191;
+    flex: none;
+}
+
+.text2 {
+    width: 723px;
+    height: 264px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 138%;
+    text-transform: capitalize;
+    color: #181F1C;
+    flex: none;
+}
+
+.content1 img {
+    width: 400px;
+    height: 400px;
+}
+.content1 {
+    display: grid;
+    grid-template-columns: 66% auto;
+    padding : 0 48px 48px 48px;
+    padding-top: 25px;
+    margin-top: 65px;
+    margin-left: 30px;
+}
+span {
+    color: #1F3984;
+}
+.p-2 {
+    margin-left: 2%;
+}
+
+
+
+.gambar2 {
+    position: absolute;
+    top: 150px;
+    background-color: #FFFFFF;
+    border: 8.14286px solid #FFFFFF;
+    filter: drop-shadow(0.771459px 6.17167px 46.2875px rgba(0, 0, 0, 0.1));
+    border-radius: 195px;
+    width: -15%;
+}
+.card-card{
+    position: absolute;
+    right: 320px;
+    top: 250px;
+}
